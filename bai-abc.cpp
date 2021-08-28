@@ -1,18 +1,3 @@
-/* // 1 �IEU KIEN
-#include "stdio.h"
-int main (){
-	//Nhap so n, kiem tra n nho hon 20, neu co thi thong bao ra m�n hinh
-	int n; 
-	printf("n=");
-	scanf("%d",&n);
- 
- 	if(n<20){
-	 printf("\n So nhap vao nho hon 20");
-	 }
-	 	
-	}
-	*/ 
-// 2 �IEU KIEN 
 #include "stdio.h"
 int main (){
 	// Nhap so n, xuat ra man hinh b la so CHAN hay LE 
