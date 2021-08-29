@@ -11,7 +11,8 @@ int main (){
 		printf("\n N la so co 2 chu so");
 		}else if (n%2==1){
 			printf("\n n a la so le co 2 chu so ");}
-		else { printf ("\n n la so CHAN co 2 chu so");}
+		else if (n%2==1){
+			printf("\n n a la so le co 2 chu so ");} { printf ("\n n la so CHAN co 2 chu so");}
 	 }
 	
 	
