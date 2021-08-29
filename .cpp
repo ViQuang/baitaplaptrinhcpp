@@ -36,7 +36,7 @@ int main (){
 	printf("\n %d ",--a);
  	printf("\n %d",a); 
  	
-// So sanh toan tu VA TOAN TU ÐIEU KIEN 
+// So sanh toan tu VA TOAN TU ï¿½IEU KIEN 
  	int a, b;
 	printf("Nhap vao a=  ");
 	scanf("%d",&a);
@@ -52,7 +52,7 @@ int main (){
 	printf("\n y=");
 	scanf("%f",&y);
 	printf("\n %f < %f la %s",x,y,(x<y==1)?"TRUE":"FALSE");
-	
+	*/
 //Phuong trinh bac nhat 1 an  ax+b=0
  	float a, b,c ;
  	printf("He so cua phuong trinh ax+b=0 can tinh:");
@@ -67,7 +67,7 @@ int main (){
  	
 
 
- */
+ 
 
 	}
 	
